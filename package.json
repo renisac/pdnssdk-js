@@ -1,0 +1,16 @@
+{
+  "name": "pdnssdk-js",
+  "version": "0.0.1",
+  "description": "RI PassiveDNS SDK for JavaScript",
+  "main": "pdnssdk.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renisac/pdnssdk-js.git"
+  },
+  "author": "wes@ren-isac.net",
+  "license": "LGPLv3",
+  "bugs": {
+    "url": "https://github.com/renisac/pdnssdk-js/issues"
+  },
+  "homepage": "https://github.com/renisac/pdnssdk-js"
+}
